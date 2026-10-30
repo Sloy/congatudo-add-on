@@ -1,15 +1,11 @@
-name: Congatudo
-version: 2024.04
+name: Congatudo (mop fork)
+version: 2024.04-mop.1
 slug: congatudo
 init: false
-description: Free your vacuum from the cloud
-url: https://github.com/congatudo/congatudo-add-on
+description: Congatudo 2024.04 with room mopping when the water tank is attached
+url: https://github.com/Sloy/congatudo-add-on
 arch:
-  - armhf
-  - armv7
-  - aarch64
   - amd64
-  - i386
 startup: application
 boot: auto
 services:

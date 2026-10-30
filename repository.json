@@ -1,5 +1,5 @@
 {
-    "name": "Congatudo add-on",
-    "url": "https://github.com/congatudo/congatudo-add-on",
-    "maintainer": "Congatudo <congatudo.cloud>"
+    "name": "Congatudo add-on (Sloy fork)",
+    "url": "https://github.com/Sloy/congatudo-add-on",
+    "maintainer": "Sloy"
 }

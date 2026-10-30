@@ -1,5 +1,10 @@
 # Changelog
 
+## 2024.04-mop.1 - 2026-10-30
+
+- Base image built from [Sloy/Congatudo `2024.04-mop.1`](https://github.com/Sloy/Congatudo/tree/2024.04-mop.1): room cleans mop the selected rooms when the water tank is attached, and stop works in mop mode.
+- amd64 only.
+
 ## 2024.04 - 2024-04-28
 
 - Update base image to [Congatudo 2024.04](https://github.com/congatudo/Congatudo/releases/tag/2024.04)
