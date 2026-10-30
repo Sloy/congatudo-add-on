@@ -1,5 +1,9 @@
 # Changelog
 
+## 2024.04-mop.2 - 2026-10-30
+
+- Publish the dust bin, water tank and mop attachments to MQTT, so Home Assistant gets a binary sensor for each.
+
 ## 2024.04-mop.1 - 2026-10-30
 
 - Base image built from [Sloy/Congatudo `2024.04-mop.1`](https://github.com/Sloy/Congatudo/tree/2024.04-mop.1): room cleans mop the selected rooms when the water tank is attached, and stop works in mop mode.

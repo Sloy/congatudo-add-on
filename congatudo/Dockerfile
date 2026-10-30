@@ -1,4 +1,4 @@
-FROM ghcr.io/sloy/congatudo:homeassistant-amd64-2024.04-mop.1
+FROM ghcr.io/sloy/congatudo:homeassistant-amd64-2024.04-mop.2
 
 # Change user to root
 USER root
